@@ -1,2 +1,2 @@
 # proyectosweb
-Aquí pondré mis proyectos web
+Este es mi repositorio para mostrar mis sitios.
