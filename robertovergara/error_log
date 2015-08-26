@@ -1,0 +1,16 @@
+[26-May-2015 11:04:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home1/liam/public_html/robertovergara/index.php on line 197
+[26-May-2015 11:04:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home1/liam/public_html/robertovergara/index.php on line 197
+[26-May-2015 11:07:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/robertovergara/index.php on line 198
+[26-May-2015 12:08:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'pondré' (T_STRING), expecting ',' or ';' in /home1/liam/public_html/robertovergara/index.php on line 204
+[11-Jul-2015 12:50:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/liam/public_html/robertovergara/index.php on line 540
+[17-Jul-2015 12:38:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'POST' (T_STRING), expecting ']' in /home1/liam/public_html/robertovergara/index.php on line 548
+[17-Jul-2015 12:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:47:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/liam/public_html/robertovergara/index.php on line 583
+[17-Jul-2015 12:48:02 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/liam/public_html/robertovergara/index.php on line 582
+[17-Jul-2015 12:49:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/liam/public_html/robertovergara/index.php on line 581
+[17-Jul-2015 12:50:03 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:51:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:52:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:53:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/liam/public_html/robertovergara/index.php on line 578
+[17-Jul-2015 12:55:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home1/liam/public_html/robertovergara/index.php on line 578
